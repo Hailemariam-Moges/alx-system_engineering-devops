@@ -1,2 +1,2 @@
-echo '#!/bin/bash' >> 10-back
+#!/bin/bash
 echo 'cd ~' >> 10-back
